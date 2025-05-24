@@ -5,7 +5,7 @@ O projeto consiste numa aplicação que permite o cadastro, visualização, edi�
 
 ---
 
-## 🛠️ Ferramentas utilizadas:
+## 🛠️ Ferramentas utilizadas
 - Linguagem Python;
 - Biblioteca PyQt5 para a interface gráfica;
 - MySQL para gerenciamento de dados;
