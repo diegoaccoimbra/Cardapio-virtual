@@ -1,4 +1,4 @@
-# Cardapio-virtual
+# 📄 Cardápio Virtual
 
 ## 📝 Descrição
 O projeto consiste numa aplicação que permite o cadastro, visualização, edição, exclusão e exportação de pedidos para um arquivo PDF. 
